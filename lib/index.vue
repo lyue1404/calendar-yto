@@ -1,26 +1,26 @@
 <template>
   <popover :show.sync="show">
-    <inlineCalendarYto v-bind="$props" @change="handelChange" @switch="handelSwitch"></inlineCalendarYto>
+    <inlineCalendar v-bind="$props" @change="handelChange" @switch="handelSwitch"></inlineCalendar>
   </popover>
 </template>
 
 <script>
 import './index.less';
 import popover from './popover';
-import inlineCalendarYto from './inlineCalendar';
+import inlineCalendar from './inlineCalendar';
 
 export default {
   name: 'calendar',
   components: {
     popover,
-    inlineCalendarYto,
+    inlineCalendar,
   },
   props: {
     show: {
       type: Boolean,
       default: false,
     },
-    ...inlineCalendarYto.props,
+    ...inlineCalendar.props,
   },
   methods: {
     handelChange(val) {
