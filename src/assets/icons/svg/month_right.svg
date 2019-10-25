@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>calendar_btn_right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页_下滑" transform="translate(-335.000000, -369.000000)" fill="#303133">
+            <g id="编组-9" transform="translate(183.000000, 366.000000)">
+                <g id="calendar_btn_right" transform="translate(152.000000, 3.000000)">
+                    <path d="M10.0077421,6.7545162 L16.0384723,10.2724422 C16.9925762,10.8290028 17.3148487,12.0536382 16.7582881,13.0077421 C16.5844505,13.3057493 16.3364796,13.5537202 16.0384723,13.7275578 L10.0077421,17.2454838 C9.05363822,17.8020444 7.82900276,17.4797719 7.2724422,16.5256681 C7.0940168,16.2197959 7,15.8720353 7,15.517926 L7,8.482074 C7,7.3775045 7.8954305,6.482074 9,6.482074 C9.35410927,6.482074 9.70186993,6.57609079 10.0077421,6.7545162 Z" id="矩形"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

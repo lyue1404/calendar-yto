@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>list_icon_high</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页_已完成任务_删除（左滑）" transform="translate(-25.000000, -248.000000)" fill="#FF574B">
+            <g id="列表" transform="translate(-80.000000, 214.000000)">
+                <g id="编组-2" transform="translate(96.000000, 34.000000)">
+                    <g id="list_icon_high" transform="translate(9.000000, 0.000000)">
+                        <path d="M0,0 L16,0 L16,9.89150472 C16,10.5810848 15.6447606,11.2220246 15.0599979,11.5875013 L9.05999788,15.3375013 C8.41145731,15.7428392 7.58854269,15.7428392 6.94000212,15.3375013 L0.94000212,11.5875013 C0.355239393,11.2220246 8.44492021e-17,10.5810848 0,9.89150472 L0,0 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

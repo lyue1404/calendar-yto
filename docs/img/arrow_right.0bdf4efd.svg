@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>arrow_right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="添加提醒（未填写）" transform="translate(-347.000000, -318.000000)" fill="#D5DBE6" fill-rule="nonzero">
+            <g id="编组备份-2" transform="translate(0.000000, 296.000000)">
+                <g id="arrow_right" transform="translate(347.000000, 22.000000)">
+                    <path d="M8.5,5.9976371 L9,5.9976371 C9,6.29181305 8.87370115,6.57275884 8.65356047,6.76112337 L4.60663536,10.2633124 C4.18703781,10.6273132 3.55777883,10.5638651 3.21554363,10.1263659 C2.88377493,9.70350963 2.94095622,9.08625801 3.34655648,8.73626221 L6.51021963,5.99797057 L3.34712701,3.26499657 C2.9412619,2.91477147 2.88388218,2.29773137 3.21574815,1.87250689 C3.55895046,1.43712199 4.1859441,1.37293464 4.60591415,1.7353312 L8.65342238,5.23303291 C8.8743935,5.42411917 9,5.70378945 9,5.9976371 L8.5,5.9976371 Z" id="路径"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

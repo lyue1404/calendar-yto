@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>nav_icon_back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-16.000000, -31.000000)" fill="#303133">
+            <g id="nav" transform="translate(0.000000, 20.000000)">
+                <g id="nav_icon_back" transform="translate(16.000000, 11.000000)">
+                    <path d="M11.8909912,15.5725047 C11.6390088,15.8246742 11.2970703,16.0587719 10.9731494,15.9867926 C10.6490088,16.0407441 10.3429736,15.7885746 10.0909473,15.5725047 L2.29702637,7.73805702 C1.90099121,7.34184087 1.90099121,6.6934552 2.29702637,6.29719509 C2.69306152,5.90093497 3.3410791,5.90093497 3.73707031,6.29719509 L10.9909912,13.7534104 L18.2630615,6.29719509 C18.6590967,5.90093497 19.3071143,5.90093497 19.7029736,6.29719509 C20.0990088,6.6934552 20.0990088,7.34184087 19.7029736,7.73805702 L11.8909912,15.5725047 Z" transform="translate(11.000000, 11.000000) scale(1, -1) rotate(90.000000) translate(-11.000000, -11.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
