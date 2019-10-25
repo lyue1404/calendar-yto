@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://lx544690189.github.io/vue-mobile-calendar/precache-manifest.a0e6c100219a322c2fb3f1173165b3c3.js"
+  "https://lx544690189.github.io/vue-mobile-calendar/precache-manifest.15f9589d5246a9c67d68e1358f39ba66.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mobile-calendar-ly"});

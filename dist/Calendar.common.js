@@ -4989,7 +4989,7 @@ var calendar_component = normalizeComponent(
 var install_install = function install(Vue) {
   if (install.installed) return;
   Vue.component(calendar.name, calendar);
-  Vue.component(/* Cannot get final name for export "inlineCalendarYto" in "./lib/index.js" (known exports: , known reexports: calendar inlineCalendar) */ undefined.name, /* Cannot get final name for export "inlineCalendarYto" in "./lib/index.js" (known exports: , known reexports: calendar inlineCalendar) */ undefined);
+  Vue.component(lib_inlineCalendar.name, lib_inlineCalendar);
 };
 
 if (typeof window !== 'undefined' && window.Vue) {
@@ -4999,7 +4999,7 @@ if (typeof window !== 'undefined' && window.Vue) {
 /* harmony default export */ var lib_install = ({
   install: install_install,
   calendar: calendar,
-  inlineCalendarYto: /* Cannot get final name for export "inlineCalendarYto" in "./lib/index.js" (known exports: , known reexports: calendar inlineCalendar) */ undefined
+  inlineCalendar: lib_inlineCalendar
 });
 // CONCATENATED MODULE: ./node_modules/@vue/cli-service/lib/commands/build/entry-lib.js
 

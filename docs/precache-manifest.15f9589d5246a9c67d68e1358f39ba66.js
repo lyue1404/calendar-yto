@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "https://lx544690189.github.io/vue-mobile-calendar/img/arrow_right.0bdf4efd.svg"
   },
   {
-    "revision": "f57523c2a1b6e134b916",
-    "url": "https://lx544690189.github.io/vue-mobile-calendar/js/app.d3ad69a3.js"
+    "revision": "82be8db0ef53f07ba5f8",
+    "url": "https://lx544690189.github.io/vue-mobile-calendar/js/app.c1ab8a73.js"
   },
   {
     "revision": "dd05e87aa4de2674518d",
     "url": "https://lx544690189.github.io/vue-mobile-calendar/js/chunk-vendors.39f45272.js"
   },
   {
-    "revision": "8a92f9868d10a4df1304481c23306658",
+    "revision": "a13e1530eec26be81a8cd9efce4858d6",
     "url": "https://lx544690189.github.io/vue-mobile-calendar/index.html"
   },
   {
