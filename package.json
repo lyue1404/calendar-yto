@@ -1,0 +1,43 @@
+{
+  "name": "mobile-calendar-ly",
+  "description": "a vue component of calendar for mobile Vue移动端日期选择控件",
+  "keywords": [
+    "calendar",
+    "vue"
+  ],
+  "version": "1.0.0",
+  "author": "ly",
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/lyue1404",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lx544690189/vue-mobile-calendar"
+  },
+  "main": "dist/Calendar.umd.min.js",
+  "scripts": {
+    "dev": "vue-cli-service serve",
+    "build-docs": "vue-cli-service build --dest docs",
+    "build-lib": "vue-cli-service build --target lib --name Calendar --dest dist lib/install.js",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dayjs": "^1.8.10",
+    "vue": "^2.5.22"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.4.0",
+    "@vue/cli-plugin-eslint": "^3.4.0",
+    "@vue/cli-plugin-pwa": "^3.4.0",
+    "@vue/cli-service": "^3.8.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "less": "^3.10.0",
+    "less-loader": "^5.0.0",
+    "register-service-worker": "^1.5.2",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
