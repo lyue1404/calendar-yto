@@ -103,7 +103,7 @@ let touchEndPosition;
 let timeStamp;
 
 export default {
-  name: 'inlineCalendar',
+  name: 'inlineCalendarYto',
   props: {
     defaultDate: {
       type: [Date, Number, Array, String, dayjs],

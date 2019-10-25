@@ -7,20 +7,20 @@
 <script>
 import './index.less';
 import popover from './popover';
-import inlineCalendar from './inlineCalendar';
+import inlineCalendarYto from './inlineCalendar';
 
 export default {
   name: 'calendar',
   components: {
     popover,
-    inlineCalendar,
+    inlineCalendarYto,
   },
   props: {
     show: {
       type: Boolean,
       default: false,
     },
-    ...inlineCalendar.props,
+    ...inlineCalendarYto.props,
   },
   methods: {
     handelChange(val) {
