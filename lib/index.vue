@@ -1,6 +1,6 @@
 <template>
   <popover :show.sync="show">
-    <inlineCalendar v-bind="$props" @change="handelChange" @switch="handelSwitch"></inlineCalendar>
+    <inlineCalendarYto v-bind="$props" @change="handelChange" @switch="handelSwitch"></inlineCalendarYto>
   </popover>
 </template>
 
